@@ -1,6 +1,8 @@
 # Basic 2D Arrays
 
-Description
+This tutorial deals with how to create a 2d array with the user-input rows and cols.
+It shows how to allocate and deallocate dynamic memory.
+It also uses CRT Library to find Memory Leaks.
 
 # Setup
 
